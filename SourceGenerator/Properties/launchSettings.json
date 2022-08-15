@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SourceGenerator": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Playground\\Playground.csproj"
+    }
+  }
+}
